@@ -1,3 +1,11 @@
+# About Me
+
+
+# Github Statistics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgentWebFoot&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgentWebFoot&layout=donut-vertical&theme=dark)
+
 # Recent Projects
 ## Florida Polytechnic University
 ### Predictive Policing- Capstone Project
@@ -9,7 +17,7 @@ October 2024 – April 2025
 February 2024 – April 2024 
 - Designed and implemented a deep learning model in Python that used LiDAR data from Kaggle to generate bounding boxes and predict object type and location for self-driving vehicle applications. 
 
-# Work Experience
+# Professional Experience
 ## Senior Resource Alliance
 ### Artificial Intelligence Intern
 Orlando, FL
