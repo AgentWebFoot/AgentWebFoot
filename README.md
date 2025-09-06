@@ -1,16 +1,36 @@
-## Hi there 👋
+# Academic Projects
+## Florida Polytechnic University
+### Predictive Policing- Capstone Project
+Lakeland, FL
+October 2024 – April 2025
+- Led a collaboration with the Polk County Sheriff’s Office as Project Manager to design a custom marker map application that visualized crime data and applied artificial intelligence and statistical analysis to identify connections between incidents and predict future crimes. 
 
-<!--
-**AgentWebFoot/AgentWebFoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### LiDAR Object Recognition- Applied Deep Learning
+February 2024 – April 2024 
+- Designed and implemented a deep learning model in Python that used LiDAR data from Kaggle to generate bounding boxes and predict object type and location for self-driving vehicle applications. 
 
-Here are some ideas to get you started:
+# Work Experience
+## Senior Resource Alliance
+### Artificial Intelligence Intern
+Orlando, FL
+May 2024 – August 2024
+- Designed a customized AI system for searching a database of information for use internally in the organization. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Paper Education America Inc
+### Stem Tutor
+Remote
+August 2022 - Current 
+- Explain and simplify STEM subjects to a variety of socio-economic backgrounds, ages, and learning styles. Manage conversations with up to 5 independent students simultaneously.
+ 
+# Skills
+Back End: C, C++, C#, Java, SQL, Python, Flask \
+Front End: HTML 5, CSS 3, JavaScript (jQuery), PHP 8, Angular, WordPress, React, WebGL \
+Systems: Windows and Linux Administration \
+Cloud: Oracle Cloud Infrastructure (OCI), Google Cloud Platform (GCP) \
+Tools and Technologies: Docker, Data Structures, Machine Learning, Deep Learning
+
+# Education
+## Florida Polytechnic University 
+Bachelor of Science in Computer Science
+Lakeland, FL
+August 2021 - May 2025
