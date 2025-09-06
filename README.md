@@ -1,4 +1,4 @@
-# Academic Projects
+# Recent Projects
 ## Florida Polytechnic University
 ### Predictive Policing- Capstone Project
 Lakeland, FL
@@ -21,16 +21,3 @@ May 2024 – August 2024
 Remote
 August 2022 - Current 
 - Explain and simplify STEM subjects to a variety of socio-economic backgrounds, ages, and learning styles. Manage conversations with up to 5 independent students simultaneously.
- 
-# Skills
-Back End: C, C++, C#, Java, SQL, Python, Flask \
-Front End: HTML 5, CSS 3, JavaScript (jQuery), PHP 8, Angular, WordPress, React, WebGL \
-Systems: Windows and Linux Administration \
-Cloud: Oracle Cloud Infrastructure (OCI), Google Cloud Platform (GCP) \
-Tools and Technologies: Docker, Data Structures, Machine Learning, Deep Learning
-
-# Education
-## Florida Polytechnic University 
-Bachelor of Science in Computer Science
-Lakeland, FL
-August 2021 - May 2025
