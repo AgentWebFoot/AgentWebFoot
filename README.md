@@ -2,9 +2,9 @@
 I'm Elijah Garmon, a recent graduated from Florida Polytechnic University with a degree in Computer Science and a focused on artificial intelligence and software engineering. I’m passionate about building user-centered, real-world solutions that have a meaningful impact.
 
 # Github Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgentWebFoot&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgentWebFoot&show_icons=true&theme=transparent&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgentWebFoot&layout=donut-vertical&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgentWebFoot&layout=donut-vertical&theme=transparent&langs_count=7)
 
 # Recent Projects
 ## Florida Polytechnic University
