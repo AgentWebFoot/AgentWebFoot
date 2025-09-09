@@ -4,7 +4,7 @@ I'm Elijah Garmon, a recent graduated from Florida Polytechnic University with a
 # Github Statistics
 [![Anurag's GitHub stats](https://github-readme-stats-indol-ten-92.vercel.app/api?username=AgentWebFoot&show_icons=true&theme=dark&rank_icon=github)](https://github.com/AgentWebFoot)
 
-[![Top Langs](https://github-readme-stats-indol-ten-92.vercel.app/api/top-langs/?username=AgentWebFoot&layout=pie&theme=dark&langs_count=7&size_weight=0.1)](https://github.com/AgentWebFoot)
+[![Top Langs](https://github-readme-stats-indol-ten-92.vercel.app/api/top-langs/?username=AgentWebFoot&layout=pie&theme=dark&langs_count=10&size_weight=0.1)](https://github.com/AgentWebFoot)
 
 # Recent Projects
 ## Florida Polytechnic University
