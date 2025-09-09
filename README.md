@@ -2,9 +2,9 @@
 I'm Elijah Garmon, a recent graduated from Florida Polytechnic University with a degree in Computer Science and a focused on artificial intelligence and software engineering. I’m passionate about building user-centered, real-world solutions that have a meaningful impact.
 
 # Github Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgentWebFoot&show_icons=true&theme=transparent&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats-ruddy-rho-74.vercel.app/api?username=AgentWebFoot&show_icons=true&theme=transparent&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgentWebFoot&layout=donut-vertical&theme=transparent&langs_count=7)
+![Top Langs](https://github-readme-stats-ruddy-rho-74.vercel.app/api/top-langs/?username=AgentWebFoot&layout=donut-vertical&theme=transparent&langs_count=7&hide=JupyterNotebook)
 
 # Recent Projects
 ## Florida Polytechnic University
@@ -15,17 +15,22 @@ October 2024 – April 2025
 
 ### LiDAR Object Recognition- Applied Deep Learning
 February 2024 – April 2024 
-- Designed and implemented a deep learning model in Python that used LiDAR data from Kaggle to generate bounding boxes and predict object type and location for self-driving vehicle applications. 
+- Designed and implemented a deep learning model in Python that used LiDAR data from Kaggle to generate bounding boxes and predict object type and location for self-driving vehicle applications.
+
+### Florida Poly Collective
+August 2021 – May 2025 \
+Check out all my projects from my time at Florida Polytechnic University \
+![Readme Card](https://github-readme-stats-ruddy-rho-74.vercel.app/api/pin/?username=AgentWebFoot&repo=FloridaPolyCollection&theme=transparent)
 
 # Professional Experience
 ## Senior Resource Alliance
 ### Artificial Intelligence Intern
-Orlando, FL
+Orlando, FL \
 May 2024 – August 2024
 - Designed a customized AI system for searching a database of information for use internally in the organization. 
 
 ## Paper Education America Inc
 ### Stem Tutor
-Remote
+Remote \
 August 2022 - Current 
 - Explain and simplify STEM subjects to a variety of socio-economic backgrounds, ages, and learning styles. Manage conversations with up to 5 independent students simultaneously.
