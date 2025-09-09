@@ -17,9 +17,12 @@ October 2024 – April 2025
 February 2024 – April 2024 
 - Designed and implemented a deep learning model in Python that used LiDAR data from Kaggle to generate bounding boxes and predict object type and location for self-driving vehicle applications.
 
+[![Readme Card](https://github-readme-stats-indol-ten-92.vercel.app/api/pin/?username=AgentWebFoot&repo=CAP4613-Final-Project---3D-object-detection&theme=dark)](https://github.com/AgentWebFoot/CAP4613-Final-Project---3D-object-detection)
+
 ### Florida Poly Collective
-August 2021 – May 2025 \
-Check out all my projects from my time at Florida Polytechnic University \
+August 2021 – May 2025
+- Check out all my projects from my time at Florida Polytechnic University.
+
 [![Readme Card](https://github-readme-stats-indol-ten-92.vercel.app/api/pin/?username=AgentWebFoot&repo=FloridaPolyCollection&theme=dark)](https://github.com/AgentWebFoot/FloridaPolyCollection)
 
 # Professional Experience
