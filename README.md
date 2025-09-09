@@ -2,9 +2,9 @@
 I'm Elijah Garmon, a recent graduated from Florida Polytechnic University with a degree in Computer Science and a focused on artificial intelligence and software engineering. I’m passionate about building user-centered, real-world solutions that have a meaningful impact.
 
 # Github Statistics
-![Anurag's GitHub stats](https://github-readme-stats-ruddy-rho-74.vercel.app/api?username=AgentWebFoot&show_icons=true&theme=transparent&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats-indol-ten-92.vercel.app/api?username=AgentWebFoot&show_icons=true&theme=transparent&rank_icon=github)
 
-![Top Langs](https://github-readme-stats-ruddy-rho-74.vercel.app/api/top-langs/?username=AgentWebFoot&layout=donut-vertical&theme=transparent&langs_count=7&hide=JupyterNotebook)
+![Top Langs](https://github-readme-stats-indol-ten-92.vercel.app/api/top-langs/?username=AgentWebFoot&layout=donut-vertical&theme=transparent&langs_count=7)
 
 # Recent Projects
 ## Florida Polytechnic University
@@ -20,7 +20,7 @@ February 2024 – April 2024
 ### Florida Poly Collective
 August 2021 – May 2025 \
 Check out all my projects from my time at Florida Polytechnic University \
-![Readme Card](https://github-readme-stats-ruddy-rho-74.vercel.app/api/pin/?username=AgentWebFoot&repo=FloridaPolyCollection&theme=transparent)
+![Readme Card](https://github-readme-stats-indol-ten-92.vercel.app/api/pin/?username=AgentWebFoot&repo=FloridaPolyCollection&theme=transparent)
 
 # Professional Experience
 ## Senior Resource Alliance
