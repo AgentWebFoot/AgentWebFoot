@@ -11,11 +11,11 @@ I'm Elijah Garmon, a recent graduated from Florida Polytechnic University with a
 ### Predictive Policing- Capstone Project
 Lakeland, FL
 October 2024 – April 2025
-- Led a collaboration with the Polk County Sheriff’s Office as Project Manager to design a custom marker map application that visualized crime data and applied artificial intelligence and statistical analysis to identify connections between incidents and predict future crimes. 
+- Led a collaboration with the Polk County Sheriff’s Office as Project Manager to develop a custom marker map application that visualized crime data and applied artificial intelligence and statistical analysis to identify connections between incidents and predict future crimes in an agile environment. 
 
 ### LiDAR Object Recognition- Applied Deep Learning
 February 2024 – April 2024 
-- Designed and implemented a deep learning model in Python that used LiDAR data from Kaggle to generate bounding boxes and predict object type and location for self-driving vehicle applications.
+- Developed an artificial intelligence deep learning model in Python that used LiDAR data from Kaggle to categorize and locate objects for use in self-driving vehicle applications. 
 
 [![Readme Card](https://github-readme-stats-indol-ten-92.vercel.app/api/pin/?username=AgentWebFoot&repo=CAP4613-Final-Project---3D-object-detection&theme=dark)](https://github.com/AgentWebFoot/CAP4613-Final-Project---3D-object-detection)
 
@@ -30,10 +30,10 @@ August 2021 – May 2025
 ### Artificial Intelligence Intern
 Orlando, FL \
 May 2024 – August 2024
-- Designed a customized AI system for searching a database of information for use internally in the organization. 
+- Developed software for a customized AI chatbot for searching a resources database for use internally in the organization to optimize and save time within the call center.  
 
 ## Paper Education America Inc
 ### Stem Tutor
 Remote \
 August 2022 - Current 
-- Explain and simplify STEM subjects to a variety of socio-economic backgrounds, ages, and learning styles. Manage conversations with up to 5 independent students simultaneously.
+- Explain and simplify STEM subjects to a variety of socio-economic backgrounds, and ages. Manage conversations with up to 5 independent students simultaneously while solving complex problems. 
